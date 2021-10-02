@@ -1,6 +1,6 @@
 # Expense-Tracker
 
-It is a MERN app that keeps a record of our expenses.
+It is a React app that keeps a record of our expenses.
 <br/>
 In this project, we have used HTML5, CSS3, and ReactJS. It uses the local storage of the browser to store the data.
 
